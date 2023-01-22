@@ -1,20 +1,20 @@
 
 #title{
-    font-size: 100px;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 #titlelink{
-    color: rgb(194, 158, 48);
+    color: rgb(255, 199, 33);
 }
 #author{
-    font-size: 100px;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(172, 194, 48);
-    text-align: center;
+    text-align: center; 
 }
 .paragraph{
-    font-size: 120px;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(136, 136, 136);
     text-align: center;
@@ -22,6 +22,6 @@
 }
 .next{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 100px;
+    font-size: 50px;
     text-align: center;
 }
