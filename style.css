@@ -4,6 +4,11 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+#title1.a{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
 #titlelink{
     color: rgb(255, 199, 33);
 }
